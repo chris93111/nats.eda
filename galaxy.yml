@@ -1,0 +1,32 @@
+---
+
+namespace: nats
+
+name: eda
+
+version: 1.0.0
+
+readme: README.md
+
+authors:
+  - FERREIRA Christophe <christopheferreira@cnaf.fr>
+
+description: Event Driven Automation with Nats/Jetstream
+
+license_file: 'LICENSE'
+
+tags:
+  - eda
+  - ansible
+  - events
+  - nats
+
+# dependencies:
+
+repository: https://github.com/kubealex/kubealex.eda
+
+documentation: https://github.com/kubealex/kubealex.eda.git
+
+issues: https://github.com/kubealex/kubealex.eda.git/issues
+
+build_ignore: []
