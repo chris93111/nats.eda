@@ -1,8 +1,8 @@
 ---
 
-namespace: nats
+namespace: chris93111
 
-name: eda
+name: nats_eda
 
 version: 1.0.0
 
@@ -23,10 +23,10 @@ tags:
 
 # dependencies:
 
-repository: https://github.com/kubealex/kubealex.eda
+repository: https://github.com/chris93111/nats.eda
 
-documentation: https://github.com/kubealex/kubealex.eda.git
+documentation: https://github.com/chris93111/nats.eda.git
 
-issues: https://github.com/kubealex/kubealex.eda.git/issues
+issues: https://github.com/chris93111/nats.eda.git/issues
 
 build_ignore: []
