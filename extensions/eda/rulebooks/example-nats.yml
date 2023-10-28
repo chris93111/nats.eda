@@ -4,7 +4,7 @@
   hosts: all
 
   sources:
-    - ansible.eda.nats:
+    - chris93111.nats_eda.nats:
         host: nats://nats:4222
         token: mytoken
         subject: foo

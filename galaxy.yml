@@ -4,7 +4,7 @@ namespace: chris93111
 
 name: nats_eda
 
-version: 1.0.0
+version: 1.0.1
 
 readme: README.md
 
@@ -27,6 +27,6 @@ repository: https://github.com/chris93111/nats.eda
 
 documentation: https://github.com/chris93111/nats.eda.git
 
-issues: https://github.com/chris93111/nats.eda.git/issues
+issues: https://github.com/chris93111/nats.eda/issues
 
 build_ignore: []

@@ -4,7 +4,7 @@
   hosts: all
 
   sources:
-    - ansible.eda.nats_js:
+    - chris93111.nats_eda.nats_js:
         host: nats://nats:4222
         username: admin
         password: mypassword
